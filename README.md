@@ -1,2 +1,2 @@
-# publiciptv
-Public IPTV
+      # Public iptv project is a collection of publicly available iptv.
+      Fork this project and add your iptv...
