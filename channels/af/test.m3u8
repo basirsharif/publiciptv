@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_3",DEFAULT=YES,URI="https://fflivefaza.b-cdn.net/media_3.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=832399,RESOLUTION=426x240,CODECS="avc1.640015,mp4a.40.2",AUDIO="group_A1"
-https://github.com/basirsharif/basirsharif.github.io/raw/master/apps/videos/barf-start-promo.mp4
