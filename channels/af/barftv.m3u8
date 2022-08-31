@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:141
+#EXT-X-TARGETDURATION:73
+#EXT-X-MEDIA-SEQUENCE:9999
+#EXTINF:47.0,
+https://filesamples.com/samples/video/ts/sample_960x400_ocean_with_audio.ts
+#EXTINF:47.0,
+https://filesamples.com/samples/video/ts/sample_960x400_ocean_with_audio.ts
+#EXTINF:47.0,
+https://filesamples.com/samples/video/ts/sample_960x400_ocean_with_audio.ts
