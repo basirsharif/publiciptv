@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:
+https://raw.githubusercontent.com/aventuri/opencaster/master/tutorials/start-here/sample.ts
+#EXTINF:
+https://raw.githubusercontent.com/aventuri/opencaster/master/tutorials/start-here/sample.ts
+#EXTINF:
+https://raw.githubusercontent.com/aventuri/opencaster/master/tutorials/start-here/sample.ts
+#EXTINF:
+https://raw.githubusercontent.com/aventuri/opencaster/master/tutorials/start-here/sample.ts
+#EXT-X-ENDLIST
