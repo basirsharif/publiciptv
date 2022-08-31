@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:20
+#EXT-X-MEDIA-SEQUENCE:9999
+#EXTINF:20.0,
+https://raw.githubusercontent.com/basirsharif/basirsharif.github.io/master/apps/videos/barf-start-promo.mp4
+#EXTINF:20.0,
+https://raw.githubusercontent.com/basirsharif/basirsharif.github.io/master/apps/videos/barf-start-promo.mp4
+#EXTINF:20.0,
+https://raw.githubusercontent.com/basirsharif/basirsharif.github.io/master/apps/videos/barf-start-promo.mp4
