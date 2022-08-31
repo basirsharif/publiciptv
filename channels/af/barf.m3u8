@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:7
 #EXT-X-MEDIA-SEQUENCE:9999
-#EXTINF:7.0,
-https://raw.githubusercontent.com/basirsharif/basirsharif.github.io/master/apps/videos/barf-start-promo.mp4
+#EXTINF:13.0,
+https://filesamples.com/samples/video/ts/sample_640x360.ts
 #EXTINF:7.0,
 https://raw.githubusercontent.com/basirsharif/basirsharif.github.io/master/apps/videos/barf-start-promo.mp4
 #EXTINF:7.0,
