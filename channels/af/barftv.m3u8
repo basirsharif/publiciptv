@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="barf-promo" tvg-name="barf promo" group-title="News" parent-code="1234" audio-track="nl",barf promo
-https://raw.githubusercontent.com/basirsharif/basirsharif.github.io/master/apps/videos/barf-start-promo.mp4
-#EXTINF:-1 tvg-id="barf-promo-1" tvg-name="barf promo 1" group-title="News" parent-code="1234" audio-track="nl",barf promo 1
-https://raw.githubusercontent.com/basirsharif/basirsharif.github.io/master/apps/videos/barf-start-promo.mp4
